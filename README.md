@@ -3,7 +3,8 @@
 #### 1、项目简介
 项目中使用了SpringBoot+Thymleaf+百度云的API接口实现的人脸识别功能，其中融合了人脸库的管理功能，实现对人脸的增删改查。  
 对于原生的百度云API文档可以点击下载   
-[点击下载百度云API官方文档--32M](https://githubpicture.oss-cn-beijing.aliyuncs.com/FACE.pdf?Expires=1583331227&OSSAccessKeyId=TMP.hhzY64migkTDJ57nuSV6gzTeDLtJajTGzHtEqZsfXDsm3K4KYTrghTkPUWQCC4X4s6jnRWmVdaMDYZqemka1a7CKBdpjdmLGZHaRfo1vWLQRMnGqFtD17dCnovETDW.tmp&Signature=EZpa0JhAtIvNm9YINKpVjgnYZFQ%3D)
+点击下载百度云API官方文档--32M   
+https://githubpicture.oss-cn-beijing.aliyuncs.com/FACE.pdf?Expires=1583331227&OSSAccessKeyId=TMP.hhzY64migkTDJ57nuSV6gzTeDLtJajTGzHtEqZsfXDsm3K4KYTrghTkPUWQCC4X4s6jnRWmVdaMDYZqemka1a7CKBdpjdmLGZHaRfo1vWLQRMnGqFtD17dCnovETDW.tmp&Signature=EZpa0JhAtIvNm9YINKpVjgnYZFQ%3D)
 项目演示和流程介绍可参考视频   
 [视频演示](https://www.bilibili.com/video/av93519949#reply2469727748)
 ![pic](https://githubpicture.oss-cn-beijing.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20200304214346.png?Expires=1583332341&OSSAccessKeyId=TMP.hhzY64migkTDJ57nuSV6gzTeDLtJajTGzHtEqZsfXDsm3K4KYTrghTkPUWQCC4X4s6jnRWmVdaMDYZqemka1a7CKBdpjdmLGZHaRfo1vWLQRMnGqFtD17dCnovETDW.tmp&Signature=bUHoxGTemBwMu2E7LUhJmMfp49E%3D)
