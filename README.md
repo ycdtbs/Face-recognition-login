@@ -7,10 +7,10 @@
 https://githubpicture.oss-cn-beijing.aliyuncs.com/FACE.pdf?Expires=1583331227&OSSAccessKeyId=TMP.hhzY64migkTDJ57nuSV6gzTeDLtJajTGzHtEqZsfXDsm3K4KYTrghTkPUWQCC4X4s6jnRWmVdaMDYZqemka1a7CKBdpjdmLGZHaRfo1vWLQRMnGqFtD17dCnovETDW.tmp&Signature=EZpa0JhAtIvNm9YINKpVjgnYZFQ%3D)
 项目演示和流程介绍可参考视频   
 [视频演示](https://www.bilibili.com/video/av93519949#reply2469727748)
-![image](https://githubpicture.oss-cn-beijing.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20200304214346.png?Expires=1583332341&OSSAccessKeyId=TMP.hhzY64migkTDJ57nuSV6gzTeDLtJajTGzHtEqZsfXDsm3K4KYTrghTkPUWQCC4X4s6jnRWmVdaMDYZqemka1a7CKBdpjdmLGZHaRfo1vWLQRMnGqFtD17dCnovETDW.tmp&Signature=bUHoxGTemBwMu2E7LUhJmMfp49E%3D)
-![image](https://githubpicture.oss-cn-beijing.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20200304214430.png?Expires=1583332421&OSSAccessKeyId=TMP.hhzY64migkTDJ57nuSV6gzTeDLtJajTGzHtEqZsfXDsm3K4KYTrghTkPUWQCC4X4s6jnRWmVdaMDYZqemka1a7CKBdpjdmLGZHaRfo1vWLQRMnGqFtD17dCnovETDW.tmp&Signature=1gC6iRFx8VQzaSJX8vx%2Bkq%2BBwtw%3D)
-![image](https://githubpicture.oss-cn-beijing.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20200304215800.png?Expires=1583332492&OSSAccessKeyId=TMP.hhzY64migkTDJ57nuSV6gzTeDLtJajTGzHtEqZsfXDsm3K4KYTrghTkPUWQCC4X4s6jnRWmVdaMDYZqemka1a7CKBdpjdmLGZHaRfo1vWLQRMnGqFtD17dCnovETDW.tmp&Signature=0arTXQ2kwkgnRaQa22JcFjVhiKQ%3D)
-![image](https://githubpicture.oss-cn-beijing.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20200304214510.png?Expires=1583332512&OSSAccessKeyId=TMP.hhzY64migkTDJ57nuSV6gzTeDLtJajTGzHtEqZsfXDsm3K4KYTrghTkPUWQCC4X4s6jnRWmVdaMDYZqemka1a7CKBdpjdmLGZHaRfo1vWLQRMnGqFtD17dCnovETDW.tmp&Signature=E%2F%2FPvRA0mpblYd71za4JSaQ1B3s%3D)
+![image](https://githubpicture.oss-cn-beijing.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20200304214346.png)
+![image](https://githubpicture.oss-cn-beijing.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20200304214430.pngD)
+![image](https://githubpicture.oss-cn-beijing.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20200304215800.png)
+![image](https://githubpicture.oss-cn-beijing.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20200304214510.pngD)
 #### 2、接口方法
 Face包下的的BaiduAiFace类是整个核心功能的接口  
 **FaceRegistration** 方法为人脸注册   
