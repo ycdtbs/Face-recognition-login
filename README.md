@@ -8,7 +8,8 @@
 #### 1、项目简介
 项目中使用了SpringBoot+Thymleaf+百度云的API接口实现的人脸识别功能，其中融合了人脸库的管理功能，实现对人脸的增删改查。  
 对于原生的百度云API文档可以进入    
- https://cloud.baidu.com/doc/FACE/index.html
+ https://cloud.baidu.com/doc/FACE/index.html  
+ 
 项目演示和流程介绍可参考视频   
 [视频演示](https://www.bilibili.com/video/av93519949#reply2469727748)
 ![image](https://githubpicture.oss-cn-beijing.aliyuncs.com/QQ%E6%88%AA%E5%9B%BE20200304214346.png)
