@@ -1,7 +1,9 @@
 #### 百度云Api与SpringBoot实现的人脸识别登录功能
 **任何问题都可通过bilibli私信我，虽然我很菜，但是很乐意解答**  
 [bilibli](https://space.bilibili.com/97483909)  
-#### 重要信息：除了gettoken下的值需要修改外，还需要自己设置LoginService下的组ID
+#### 重要信息：
+1、修改Util下getToken方法的两个参数；参数在百度云人脸识别库中取到  
+2、除了gettoken下的值需要修改外，还需要自己设置LoginService下的组GroupId 不然会报222207错误会引发空指针
 项目中非常重要的gettoken的方法中AK与SK需要自己从百度云人脸识别库获取（代码中删去了这部分）请去Utils下GetToken方法下修改
 #### 1、项目简介
 项目中使用了SpringBoot+Thymleaf+百度云的API接口实现的人脸识别功能，其中融合了人脸库的管理功能，实现对人脸的增删改查。  
